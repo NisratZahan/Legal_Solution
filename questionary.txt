@@ -1,0 +1,12 @@
+Difference between flex and grid
+The basic difference between CSS grid layout and CSS flexbox layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time.
+What is the purpose of media query?
+Media queries are a key part of responsive web design, as they allow you to create different layouts depending on the size of the viewport, but they can also be used to detect other things about the environment your site is running on, for example whether the user is using a touchscreen rather than a mouse.
+What is css box model and how does it work
+A box in CSS consists of a content area, which is where any text, images, or other HTML elements are displayed. This is optionally surrounded by padding, a border, and a margin, on one or more sides. The box model describes how these elements work together to create a box as displayed by CSS.
+What is semantic tag?
+Semantic HTML tags are tags that define the meaning of the content they contain. For example, tags like
+,
+, and
+are semantic HTML tags. They clearly indicate the role of the content they contain. On the other hand, tags like
+and are typical examples of non-semantic HTML elements.
